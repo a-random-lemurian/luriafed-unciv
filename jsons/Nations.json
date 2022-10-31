@@ -1,50 +1,59 @@
 [
-	{
-                "name": "Luria Federation",
-                "leaderName": "Lemuria",
-                "adjective": ["Lurian"],
-                "startBias": ["Tundra"],
-                "preferredVictoryType": "Scientific",
-
-                "startIntroPart1": "Greetings. The Luria Federation has been established. It is time for you to make a great Federation colony. Good luck.",
-                "startIntroPart2": "I will be out of here now. See you later!",
-
-                "declaringWar": "You are a threat to the Federation. You must be eliminated.",
-                "attacked": "You are a threat to the Federation! We will defend ourselves until the end!",
-                "defeated": "You win. Please leave the image stash intact.",
-                "introduction": "Hello. I come from the Luria Federation. Would you like this USB stick full of Anne Hidalgo images?",
-
-                "neutralHello": "Hello.",
-                "hateHello": "What are you doing here?",
-
-                "tradeRequest": "Accept for stonks, reject for not stonks.",
-
-                "outerColor": [85, 85, 85],
-                "innerColor": [126, 192, 253],
-		"uniqueName": "Nancy Pelosi Folder",
-		"uniques": ["[+2 Happiness] from every [Library]"],
-		"favoredReligion": "Church of Anne Hidalgo",
-                "cities": [
-                        "Luria",
-                        "Winters",
-                        "Berenbaum Station",
-			"Perlman Station",
-			"Hidalgo Shrine",
-			"Bjork Shrine",
-			"May Berenbaum Shrine",
-			"Charpentier",
-			"Marine Station",
-                        "Torvalds",
-			"Linux Zone",
-			"Cheney",
-			"Larissa Town",
-			"Ingrida Station",
-			"Bredehoft",
-			"Chasitum",
-			"Heard",
-			"Depp",
-			"Ubuntu Station",
-			"Arch Station"
-                ]
-        }
+  {
+    "name": "Luria Federation",
+    "leaderName": "Lemuria",
+    "adjective": [
+      "Lurian"
+    ],
+    "startBias": [
+      "Tundra"
+    ],
+    "preferredVictoryType": "Scientific",
+    "startIntroPart1": "Greetings. The Luria Federation has been established. It is time for you to make a great Federation colony. Good luck.",
+    "startIntroPart2": "I will be out of here now. See you later!",
+    "declaringWar": "You are a threat to the Federation. You must be eliminated.",
+    "attacked": "You are a threat to the Federation! We will defend ourselves until the end!",
+    "defeated": "You win. Please leave the image stash intact.",
+    "introduction": "Hello. I come from the Luria Federation. Would you like this USB stick full of Anne Hidalgo images?",
+    "neutralHello": "Hello.",
+    "hateHello": "What are you doing here?",
+    "tradeRequest": "Accept for stonks, reject for not stonks.",
+    "outerColor": [
+      0,
+      40,
+      104
+    ],
+    "innerColor": [
+      0,
+      40,
+      104
+    ],
+    "uniqueName": "Nancy Pelosi Folder",
+    "uniques": [
+      "[+2 Happiness] from every [Library]"
+    ],
+    "favoredReligion": "Church of Anne Hidalgo",
+    "cities": [
+      "Luria",
+      "Winters",
+      "Berenbaum Station",
+      "Perlman Station",
+      "Hidalgo Shrine",
+      "Bjork Shrine",
+      "May Berenbaum Shrine",
+      "Charpentier",
+      "Marine Station",
+      "Torvalds",
+      "Linux Zone",
+      "Cheney",
+      "Larissa Town",
+      "Ingrida Station",
+      "Bredehoft",
+      "Chasitum",
+      "Heard",
+      "Depp",
+      "Ubuntu Station",
+      "Arch Station"
+    ]
+  }
 ]
