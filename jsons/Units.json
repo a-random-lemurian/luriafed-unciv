@@ -40,5 +40,27 @@
     "attackSound": "gdrAttack",
     "uniqueTo": "Fumo Empire",
     "replaces": "Giant Death Robot"
+  },
+  {
+    "name": "Round Table Battle Fumos",
+    "replaces": "Crossbowman",
+    "unitType": "Sword",
+    "range": 3,
+    "movement": 2,
+    "attack": 28,
+    "defense": 13,
+    "cost": 150,
+    "uniques": [
+      "[+200]% Strength against <vs [Sword] units>",
+      "[+150]% Strength against <vs [Archery] units>",
+      "[-25]% Strength against <vs [Cities]>",
+      "[-50]% Strength <when fighting in [Rough] tiles>",
+      "[-25]% Strength when defending"
+    ],
+    "uniqueTo": "Fumo Empire",
+    "promotions": [
+      "Cover I",
+      "Amphibious"
+    ]
   }
 ]
