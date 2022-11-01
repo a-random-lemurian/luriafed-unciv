@@ -1,36 +1,39 @@
 [
-	{
-		"name": "Cultist",
-		"unitType": "Civilian",
-		"uniques": [
-			"Can [Spread Religion] [2] times",
-			"May enter foreign tiles without open borders, but loses [250] religious strength each turn it ends there",
-                        "Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
-                        "[-1] Sight", "Unbuildable", "Religious Unit", "Hidden when religion is disabled"
-		]
-		"movement": 4,
-		"religiousStrength": 1500,
-		"uniqueTo": "Luria Federation",
-		"replaces": "Missionary"
-	},
-	{
-        "name": "Gundam",
-        "unitType": "Armored",
-        "strength": 250,
-        "movement": 6,
-        "cost": 400,
-        "uniques": [
-            "[90]% chance to intercept air attacks"
-            "[+200]% Strength against <vs [Armored] units>",
-            "[+150]% Strength against <vs [Cities]>",
-            "Can move after attacking",
-            "No defensive terrain bonus",
-            "[+50]% Strength while defending",
-            "[-25]% Strength against Gunpowder",
-            "Can carry [1] [Missile] Units"
-        ],
-        "attackSound": "gdrAttack",
-        "uniqueTo": "Fumo Empire",
-        "replaces": "Giant Death Robot"
-    }
+  {
+    "name": "Cultist",
+    "unitType": "Civilian",
+    "uniques": [
+      "Can [Spread Religion] [2] times",
+      "May enter foreign tiles without open borders, but loses [250] religious strength each turn it ends there",
+      "Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
+      "[-1] Sight",
+      "Unbuildable",
+      "Religious Unit",
+      "Hidden when religion is disabled"
+    ],
+    "movement": 4,
+    "religiousStrength": 1500,
+    "uniqueTo": "Luria Federation",
+    "replaces": "Missionary"
+  },
+  {
+    "name": "Gundam",
+    "unitType": "Armored",
+    "strength": 250,
+    "movement": 6,
+    "cost": 400,
+    "uniques": [
+      "[90]% chance to intercept air attacks",
+      "[+200]% Strength against <vs [Armored] units>",
+      "[+150]% Strength against <vs [Cities]>",
+      "Can move after attacking",
+      "No defensive terrain bonus",
+      "[+50]% Strength while defending",
+      "[-25]% Strength against Gunpowder",
+      "Can carry [1] [Missile] Units"
+    ],
+    "attackSound": "gdrAttack",
+    "uniqueTo": "Fumo Empire",
+    "replaces": "Giant Death Robot"
+  }
 ]

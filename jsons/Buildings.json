@@ -1,13 +1,15 @@
 [
-        {
-                "name": "Image Stash",
-                "hurryCostModifier": 25,
-                "maintenance": 1,
-                "uniques": ["[+1 Happiness] per [3] population [in this city]"],
-                "requiredTech": "Writing",
-		"maintenance": 1,
-		"faith": 2,
-		"cost": 120,
-		"uniqueTo": "Luria Federation"
-        }
+  {
+    "name": "Image Stash",
+    "hurryCostModifier": 25,
+    "maintenance": 1,
+    "uniques": [
+      "[+1 Happiness] per [3] population [in this city]"
+    ],
+    "requiredTech": "Writing",
+    "maintenance": 1,
+    "faith": 2,
+    "cost": 120,
+    "uniqueTo": "Luria Federation"
+  }
 ]
