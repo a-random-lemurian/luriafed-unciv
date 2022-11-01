@@ -14,7 +14,12 @@
     "movement": 4,
     "religiousStrength": 1500,
     "uniqueTo": "Luria Federation",
-    "replaces": "Missionary"
+    "replaces": "Missionary",
+    "civilopediaText": [
+      {
+        "text": "The Luria Federation is known for its worship of middle-aged semi-famous women. This cultist is one of them. They usually carry a few folders and sometimes hard drives containing images of their preferred semi-famous women, such as Anne Hidalgo."
+      }
+    ]
   },
   {
     "name": "Gundam",
