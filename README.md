@@ -1,4 +1,4 @@
-# Lemuria's Unciv Stuff
+# luriafed-unciv
 
 You might be wondering what everything here means. Why does the
 Luria Federation have a "Nancy Pelosi Folder"?
