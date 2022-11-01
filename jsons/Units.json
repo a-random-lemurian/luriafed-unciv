@@ -30,7 +30,7 @@
       "No defensive terrain bonus",
       "[+50]% Strength while defending",
       "[-25]% Strength against Gunpowder",
-      "Can carry [1] [Missile] Units"
+      "Can carry [1] [Missile] units"
     ],
     "attackSound": "gdrAttack",
     "uniqueTo": "Fumo Empire",
