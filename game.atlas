@@ -1,13 +1,20 @@
 
 game.png
-size: 256, 256
+size: 512, 512
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+NationIcons/Fumo Empire
+  rotate: false
+  xy: 4, 117
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
 NationIcons/Luria Federation
   rotate: false
   xy: 4, 4
-  size: 153, 153
-  orig: 153, 153
+  size: 105, 105
+  orig: 105, 105
   offset: 0, 0
   index: -1
