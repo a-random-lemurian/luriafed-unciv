@@ -39,6 +39,7 @@
     ],
     "attackSound": "gdrAttack",
     "uniqueTo": "Fumo Empire",
+    "requiredTech": "Nuclear Fusion",
     "replaces": "Giant Death Robot"
   },
   {
@@ -58,6 +59,9 @@
       "[-25]% Strength when defending"
     ],
     "uniqueTo": "Fumo Empire",
+    "requiredTech": "Machinery",
+    "upgradesTo": "Rifleman",
+    "obsoleteTech": "Rifling",
     "promotions": [
       "Cover I",
       "Amphibious"
