@@ -54,7 +54,7 @@
       "[+200]% Strength against <vs [Sword] units>",
       "[+150]% Strength against <vs [Archery] units>",
       "[-25]% Strength against <vs [Cities]>",
-      "[-50]% Strength <when fighting in [Rough] tiles>",
+      "[-50]% Strength <when fighting in [Rough terrain] tiles>",
       "[-25]% Strength when defending"
     ],
     "uniqueTo": "Fumo Empire",
