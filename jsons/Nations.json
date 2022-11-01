@@ -55,5 +55,54 @@
       "Ubuntu Station",
       "Arch Station"
     ]
+  },
+  {
+    "name": "Fumo Empire",
+    "leaderName": "Yuyuko Saigyouji",
+    "adjective": [
+      "Fumo"
+    ],
+    "startBias": [
+      "Grassland"
+    ],
+    "preferredVictoryType": "Scientific",
+    "startIntroPart1": "The Fumo Empire has created a new colony on this world. Will you be able to conquer this world and stop the Luria Federation?",
+    "startIntroPart2": "All image stashes you find are to be destroyed immediately. No exceptions.",
+    "declaringWar": "We suspect you of harboring secret LuriaFed image stashes. Our soldiers are coming for an inspection.",
+    "attacked": "I will make sure that the souls of every dead soldier you have suffer eternally in hell.",
+    "defeated": "You have eliminated my colony. Be wary, for I will come back.",
+    "introduction": "I am Yuyuko Saigyouji.",
+    "neutralHello": "Hello.",
+    "hateHello": "What are you doing here?",
+    "tradeRequest": "Do you accept this trade?",
+    "outerColor": [
+      65,
+      130,
+      160
+    ],
+    "innerColor": [
+      183,
+      56,
+      56
+    ],
+    "cities": [
+      "Gensokyo",
+      "Hakugyokurou",
+      "Makai",
+      "Mayohiga",
+      "Misty Lake",
+      "Netherworld",
+      "Suzunaan",
+      "Moriya Shrine",
+      "Muenzuka",
+      "Kourindou",
+      "Mugenkan",
+      "Myouren Temple"
+    ],
+    "uniqueName": "Ascension, Security and Fumo",
+    "uniques": [
+      "[+2 Faith] from every [University]",
+      "Unhappiness from number of Cities doubled"
+    ]
   }
 ]
